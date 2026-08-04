@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Immenstaad, Yachthafen Schloss Kirchberg",
+    "min": 1.9,
+    "max": 2.8,
+    "raw": "1,9–2,8 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Friedrichshafen, WYC-Yachthafen",
+    "min": 2.0,
+    "max": null,
+    "raw": ">2,0 m",
+    "stand": "2024",
+    "type": "Untergrenze",
+    "note": "Tatsächliche Tiefe größer als 2,0 m."
+  },
+  {
+    "name": "Langenargen, BMK-Yachthafen",
+    "min": 2.0,
+    "max": null,
+    "raw": ">2,0 m",
+    "stand": "2024",
+    "type": "Untergrenze",
+    "note": "Tatsächliche Tiefe größer als 2,0 m."
+  },
+  {
+    "name": "Überlingen, Hafen am Bahnhof Therme",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Konstanz, KYC-Yachthafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Friedrichshafen, BSB-Schiffshafen",
+    "min": 2.0,
+    "max": null,
+    "raw": ">2,0 m",
+    "stand": "2024",
+    "type": "Untergrenze",
+    "note": "Tatsächliche Tiefe größer als 2,0 m."
+  },
+  {
+    "name": "Lindau, Hafen",
+    "min": 2.0,
+    "max": null,
+    "raw": ">2,0 m",
+    "stand": "2024",
+    "type": "Untergrenze",
+    "note": "Tatsächliche Tiefe größer als 2,0 m."
+  },
+  {
+    "name": "Kressbronn-Gohren, Marina Ultramarin",
+    "min": 3.0,
+    "max": 3.0,
+    "raw": "bis 3,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Romanshorn, SBS-Yachthafen",
+    "min": 2.5,
+    "max": 2.5,
+    "raw": "bis 2,5 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Arbon, Bootshafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Hard, Hafenanlagen",
+    "min": 2.0,
+    "max": null,
+    "raw": ">2,0 m",
+    "stand": "2024",
+    "type": "Untergrenze",
+    "note": "Tatsächliche Tiefe größer als 2,0 m."
+  },
+  {
+    "name": "Altenrhein, Marina Rheinhof",
+    "min": 1.5,
+    "max": null,
+    "raw": ">1,5 m",
+    "stand": "2024",
+    "type": "Untergrenze",
+    "note": "Tatsächliche Tiefe größer als 1,5 m."
+  },
+  {
+    "name": "Konstanz, BSB-Schifffahrtshafen",
+    "min": 3.0,
+    "max": 3.0,
+    "raw": "bis 3,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Münsterlingen, Bootshafen",
+    "min": 1.5,
+    "max": null,
+    "raw": ">1,5 m",
+    "stand": "2025 (geplant)",
+    "type": "Untergrenze",
+    "note": "Geplanter Zustand ab 2025."
+  },
+  {
+    "name": "Hagnau, Westhafen (neu, ab 2025)",
+    "min": 1.5,
+    "max": null,
+    "raw": ">1,5 m",
+    "stand": "2025 (geplant)",
+    "type": "Untergrenze",
+    "note": "Geplanter Zustand ab 2025."
+  },
+  {
+    "name": "Meersburg, Yachthafen YC Meersburg",
+    "min": 1.0,
+    "max": 1.6,
+    "raw": "1,0–1,6 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Fischbach, Yachthafen",
+    "min": 1.7,
+    "max": 1.7,
+    "raw": "bis 1,7 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Wallhausen, Sportboothafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Staad, Hafen",
+    "min": 1.0,
+    "max": 2.0,
+    "raw": "1,0–2,0 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Nonnenhorn, Yachthafen",
+    "min": 2.4,
+    "max": 2.4,
+    "raw": "bis 2,4 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Wasserburg, Yachthafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Bottighofen, Yachthafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Kreuzlingen, Yachthafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Altnau, Gemeindesporthafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Güttingen, SBS-Yachthafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Steinach, Bootshafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Goldach, Hafen Rietli",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Arbon, Alter Hafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Romanshorn, Schlosshafen",
+    "min": 2.0,
+    "max": 2.0,
+    "raw": "bis 2,0 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "Örtlich können geringere Tiefen vorkommen."
+  },
+  {
+    "name": "Gaissau, Pfarr- und Gemeindehafen",
+    "min": 0.5,
+    "max": 1.3,
+    "raw": "0,5–1,3 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Fußach, Hafen Salzmann",
+    "min": 1.3,
+    "max": 1.85,
+    "raw": "1,3–1,85 m",
+    "stand": "2024",
+    "type": "Unsicher",
+    "note": "Versandung; Tiefenangabe ausdrücklich unsicher."
+  },
+  {
+    "name": "Rohrspitz, Yachting Salzmann",
+    "min": 1.3,
+    "max": 1.85,
+    "raw": "1,3–1,85 m",
+    "stand": "2024",
+    "type": "Unsicher",
+    "note": "Versandung; Tiefenangabe ausdrücklich unsicher."
+  },
+  {
+    "name": "Höchst, Blumhafen",
+    "min": 1.4,
+    "max": 1.4,
+    "raw": "1,4 m",
+    "stand": "2024",
+    "type": "Einzelwert",
+    "note": ""
+  },
+  {
+    "name": "Hagnau, Westhafen (alt)",
+    "min": 1.2,
+    "max": 1.2,
+    "raw": "1,2 m",
+    "stand": "2024",
+    "type": "Historisch",
+    "note": "Alter Zustand."
+  },
+  {
+    "name": "Dingelsdorf, Sportboothafen",
+    "min": 1.4,
+    "max": 1.4,
+    "raw": "1,4 m",
+    "stand": "2024",
+    "type": "Einzelwert",
+    "note": ""
+  },
+  {
+    "name": "Horn (Thurgau), Hafen Zentrum",
+    "min": 1.0,
+    "max": 2.5,
+    "raw": "1,0–2,5 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Überlingen, Gondelhafen",
+    "min": 0.3,
+    "max": 0.3,
+    "raw": "0,3 m",
+    "stand": "2024",
+    "type": "Einzelwert",
+    "note": ""
+  },
+  {
+    "name": "Mainau, Hafen",
+    "min": 0.2,
+    "max": 0.5,
+    "raw": "0,2–0,5 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Ludwigshafen, Yachtclub",
+    "min": 1.0,
+    "max": 2.0,
+    "raw": "1,0–2,0 m",
+    "stand": "2024",
+    "type": "Bereich",
+    "note": ""
+  },
+  {
+    "name": "Reichenau, Yachthafen Herrenbruck",
+    "min": 0.0,
+    "max": 1.5,
+    "raw": "1,5 m außen, 0,0 m innen",
+    "stand": "2024",
+    "type": "Zonen",
+    "note": "Außen ca. 1,5 m, innen ca. 0,0 m."
+  }
+]

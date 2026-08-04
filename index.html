@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1f4e78">
+<title>Bodensee Hafencheck</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="stylesheet" href="./styles.css">
+<link rel="icon" href="./icons/icon-192.png">
+</head>
+<body>
+<header><h1>Bodensee Hafencheck</h1><p>Hafentiefe anhand Pegel Konstanz prüfen</p></header>
+<main>
+<nav>
+<button data-tab="check" class="active">Prüfen</button>
+<button data-tab="list">Hafenliste</button>
+<button data-tab="settings">Einstellungen</button>
+</nav>
+
+<section id="check" class="view">
+<div class="card">
+<h2>Pegel Konstanz</h2>
+<div class="two">
+<div><label>Onlinewert</label><input id="onlineLevel" readonly placeholder="nicht geladen"></div>
+<div><label>Manuell / offline</label><input id="manualLevel" inputmode="decimal" placeholder="z. B. 2,87"></div>
+</div>
+<button id="loadLevel">Pegel abrufen</button>
+<p id="levelInfo" class="small"></p>
+</div>
+
+<div class="card">
+<h2>Hafen prüfen</h2>
+<label>Suche</label><input id="search" placeholder="Ort oder Hafen">
+<label>Hafen</label><select id="port"></select>
+<label>Modus</label>
+<select id="mode">
+<option value="safe">Sicherheitsmodus – kleinste Tiefe</option>
+<option value="mid">Mittelwert</option>
+<option value="optimistic">Optimistisch – größte Tiefe</option>
+</select>
+<div id="status" class="status unknown">Pegel eingeben</div>
+<div class="metrics">
+<div><span>Plan-Tiefe</span><strong id="plan">–</strong></div>
+<div><span>Aktuelle Tiefe</span><strong id="current">–</strong></div>
+<div><span>Unter Kiel</span><strong id="under">–</strong></div>
+<div><span>Reserve</span><strong id="reserve">–</strong></div>
+</div>
+<p id="detail" class="note"></p>
+</div>
+</section>
+
+<section id="list" class="view hidden">
+<div class="card">
+<h2>Alle Häfen</h2>
+<label>Filter</label>
+<select id="filter">
+<option value="all">Alle</option>
+<option value="safe">Zugänglich</option>
+<option value="tight">Knapp</option>
+<option value="unsafe">Nicht zugänglich</option>
+</select>
+<div id="rows"></div>
+</div>
+</section>
+
+<section id="settings" class="view hidden">
+<div class="card">
+<h2>Einstellungen</h2>
+<label>Bootstiefgang (m)</label><input id="draft" inputmode="decimal">
+<label>Sicherheitspuffer (m)</label><input id="buffer" inputmode="decimal">
+<label>Bezugspegel (m)</label><input id="reference" inputmode="decimal">
+<button id="save">Speichern</button>
+</div>
+<div class="card"><p class="note">Rechnerische Orientierung. Versandung, Hafeneinfahrt, örtliche Schwellen, Wellengang und kurzfristige Pegeländerungen können die tatsächliche Tiefe verändern.</p></div>
+</section>
+</main>
+<script src="./app.js"></script>
+</body>
+</html>
