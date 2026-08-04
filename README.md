@@ -30,3 +30,8 @@ Adresse in Chrome öffnen → Menü → **App installieren** oder **Zum Startbil
 `aktuelle Tiefe = verwendete Hafenplantiefe + Pegel Konstanz - 2,50 m`
 
 Quelle der Hafendaten: vom Nutzer bereitgestellte Ausgabe aus IBN Felizitas.
+
+
+## Datenstand
+
+Hafendaten zuletzt aus der Excel-Pflegedatei aktualisiert. Aktuell enthalten: **44 Häfen**.

@@ -358,5 +358,41 @@
     "stand": "2024",
     "type": "Zonen",
     "note": "Außen ca. 1,5 m, innen ca. 0,0 m."
+  },
+  {
+    "name": "Kreuzlingen, Seegarten",
+    "min": 1.0,
+    "max": 1.8,
+    "raw": "",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": "1,0 m bis 1,8 m an den Stegen"
+  },
+  {
+    "name": "Bregenz, Marina",
+    "min": 2.2,
+    "max": 3.2,
+    "raw": "-2,2 bis -3,2 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": ""
+  },
+  {
+    "name": "Fußach, YC Rheindelta",
+    "min": 1.5,
+    "max": 2.5,
+    "raw": "1,5 bis -2,5 m",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": ""
+  },
+  {
+    "name": "Fußach, schwedenschanze",
+    "min": 1.5,
+    "max": 2.5,
+    "raw": "",
+    "stand": "2024",
+    "type": "Bis-Angabe",
+    "note": ""
   }
 ]
